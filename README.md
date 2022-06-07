@@ -13,4 +13,4 @@ I've learnt how to use typescript with React JS by setting up a project where I 
 
 ## ✍🏻 Author
 
--   GitHub - [@jadetruexo](https://github.com/jadetruexo/)
+-   GitHub - [@jadetrue](https://github.com/jadetrue/)
